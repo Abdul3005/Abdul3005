@@ -29,8 +29,6 @@
 
 I am a **Software Engineering undergraduate at FAST NUCES**, specializing in full-stack development, system-level programming, and AI-integrated applications. From building OS-level projects in C to deploying ML-powered career platforms with React and FastAPI — I engineer solutions that are clean, scalable, and built for the real world.
 
-Recipient of two national scholarships — **STFS** and **Honahar** — and selected among **800+ global participants** for the **Dev Weekends Fellowship 2025**.
-
 ---
 
 ## Core Focus
@@ -112,17 +110,38 @@ Object-Oriented Software Architecture
 
 <br/>
 
-[![LinkedIn](https://img.icons8.com/fluency/96/linkedin.png)](https://linkedin.com/in/abdulrehman~)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.icons8.com/fluency/96/gmail-new.png)](mailto:ch.abdulrehmann30@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![LeetCode](https://img.icons8.com/fluency/96/code.png)](https://leetcode.com/u/AbdulRehmann30/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.icons8.com/fluency/96/github.png)](https://github.com/Abdul3005)
-
-<br/>
-
-**[LinkedIn](https://linkedin.com/in/abdulrehman~)** &nbsp;·&nbsp;
-**[Email](mailto:ch.abdulrehmann30@gmail.com)** &nbsp;·&nbsp;
-**[LeetCode](https://leetcode.com/u/AbdulRehmann30/)** &nbsp;·&nbsp;
-**[GitHub](https://github.com/Abdul3005)**
+<table border="0">
+<tr>
+<td align="center" width="200">
+<a href="https://linkedin.com/in/abdulrehman~">
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="70px"/><br/>
+<b style="font-size:16px">LinkedIn</b><br/>
+<span>Connect</span>
+</a>
+</td>
+<td align="center" width="200">
+<a href="mailto:ch.abdulrehmann30@gmail.com">
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="70px"/><br/>
+<b style="font-size:16px">Email</b><br/>
+<span>ch.abdulrehmann30@gmail.com</span>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://leetcode.com/u/AbdulRehmann30/">
+<img src="https://img.icons8.com/fluency/96/code.png" width="70px"/><br/>
+<b style="font-size:16px">LeetCode</b><br/>
+<span>Problem Solving</span>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://github.com/Abdul3005">
+<img src="https://img.icons8.com/fluency/96/github.png" width="70px"/><br/>
+<b style="font-size:16px">GitHub</b><br/>
+<span>Explore My Work</span>
+</a>
+</td>
+</tr>
+</table>
 
 <br/>
 
