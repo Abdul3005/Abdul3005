@@ -17,46 +17,50 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am a **Software Engineer** specializing in **C++ development**, system-level programming, and the design of high-performance applications. My work focuses on writing clean, efficient, and maintainable code that solves real-world problems.
 
 From **game development** to **encryption systems**, I approach every project with precision and a commitment to engineering excellence — building software that is reliable, scalable, and production-ready.
 
-> 💡 *I don't just write code — I engineer solutions built to last.*
+> *I don't just write code — I engineer solutions built to last.*
 
 ---
 
-## 🎯 Core Focus
-✦ C++ Systems & Application Development
+## Core Focus
+C++ Systems & Application Development
 
-✦ Game Design & Simulation
+Game Design & Simulation
 
-✦ Data Structures & Algorithms
+Data Structures & Algorithms
 
-✦ Object-Oriented Software Architecture
+Object-Oriented Software Architecture
 
-✦ Encryption & Security Applications
+Encryption & Security Applications
 
-✦ High-Performance & Low-Level Programming
+High-Performance & Low-Level Programming
 
 ---
 
-## ⚙️ Tech Arsenal
+## Tech Arsenal
 
-### 🖥️ Languages
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### 📐 Concepts & Practices
+### Concepts & Practices
 ![OOP](https://img.shields.io/badge/OOP-Design-blue?style=flat-square)
 ![DSA](https://img.shields.io/badge/Data_Structures-Algorithms-green?style=flat-square)
 ![Game Dev](https://img.shields.io/badge/Game-Development-orange?style=flat-square)
@@ -64,33 +68,35 @@ From **game development** to **encryption systems**, I approach every project wi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| [🌐 Velox-OS](https://github.com/Abdul3005/Velox-OS) | Custom OS-level project built in C | C |
-| [🛍️ Noor Collection Website](https://github.com/Abdul3005/Noor-Collection-Website) | E-commerce website for clothing collection | HTML |
-| [🔍 Career-Lens](https://github.com/Abdul3005/Career-Lens) | Career guidance and job search platform | JavaScript |
-| [🔄 Skill-Swap](https://github.com/Abdul3005/Skill-Swap) | Platform for exchanging skills between users | JavaScript |
-| [🥦 Taza-Mandi-DB-Project](https://github.com/Abdul3005/Taza-Mandi-DB-Project) | Fresh produce marketplace database project | JavaScript |
-| [🧠 Neuro](https://github.com/Abdul3005/Neuro) | AI/ML exploration project | — |
-| [🤖 CodeFix-AI](https://github.com/Abdul3005/CodeFix-AI) | AI-powered code fixing and debugging tool | — |
-| [✈️ SkyNet ATC Simulator](https://github.com/Abdul3005/SkyNet-ATC-Simulator-C-Data-Structures) | Air traffic control simulator using data structures | C++ |
-| [🔁 Skill-Swap Platform](https://github.com/Abdul3005/Skill-Swap-Platform) | Full platform for skill exchange and collaboration | JavaScript |
-| [✈️ Trippy Travel Website](https://github.com/Abdul3005/Trippy-Travel-Website) | Travel booking and exploration website | JavaScript |
-| [⚡ My Next App](https://github.com/Abdul3005/my-next-app) | Next.js web application project | TypeScript |
-| [🐍 C-Snake Game](https://github.com/Abdul3005/C-Snake_Game_Project) | Classic snake game with smooth mechanics | C++ |
-| [⚔️ Fantasy Arena](https://github.com/Abdul3005/Fantasy-Arena-A-Modular-Battle-Game-C-) | Modular battle game with extensible character system | C++ |
-| [🗺️ Adventure Quest](https://github.com/Abdul3005/Adventure_Quest_Multi-Player_Game-C-) | Multi-player adventure quest game | C++ |
-| [🏰 StrongHold](https://github.com/Abdul3005/-StrongHold_Game_C-Project) | Strategy-style stronghold defense game | C++ |
+| Project | Description | Tech |
+|:--------|:------------|:----:|
+| [Velox-OS](https://github.com/Abdul3005/Velox-OS) | Custom OS-level project built in C | `C` |
+| [Noor Collection Website](https://github.com/Abdul3005/Noor-Collection-Website) | E-commerce website for clothing collection | `HTML` |
+| [Career-Lens](https://github.com/Abdul3005/Career-Lens) | Career guidance and job search platform | `JavaScript` |
+| [Skill-Swap](https://github.com/Abdul3005/Skill-Swap) | Platform for exchanging skills between users | `JavaScript` |
+| [Taza-Mandi-DB-Project](https://github.com/Abdul3005/Taza-Mandi-DB-Project) | Fresh produce marketplace database project | `JavaScript` |
+| [Neuro](https://github.com/Abdul3005/Neuro) | AI/ML exploration project | `—` |
+| [CodeFix-AI](https://github.com/Abdul3005/CodeFix-AI) | AI-powered code fixing and debugging tool | `—` |
+| [SkyNet ATC Simulator](https://github.com/Abdul3005/SkyNet-ATC-Simulator-C-Data-Structures) | Air traffic control simulator using data structures | `C++` |
+| [Skill-Swap Platform](https://github.com/Abdul3005/Skill-Swap-Platform) | Full platform for skill exchange and collaboration | `JavaScript` |
+| [Trippy Travel Website](https://github.com/Abdul3005/Trippy-Travel-Website) | Travel booking and exploration website | `JavaScript` |
+| [My Next App](https://github.com/Abdul3005/my-next-app) | Next.js web application project | `TypeScript` |
+| [C-Snake Game](https://github.com/Abdul3005/C-Snake_Game_Project) | Classic snake game with smooth mechanics | `C++` |
+| [Fantasy Arena](https://github.com/Abdul3005/Fantasy-Arena-A-Modular-Battle-Game-C-) | Modular battle game with extensible character system | `C++` |
+| [Adventure Quest](https://github.com/Abdul3005/Adventure_Quest_Multi-Player_Game-C-) | Multi-player adventure quest game | `C++` |
+| [StrongHold](https://github.com/Abdul3005/-StrongHold_Game_C-Project) | Strategy-style stronghold defense game | `C++` |
 
 ---
-## ⚡ Recent Activity
+
+## Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
-## 📊 GitHub Stats
+
+## GitHub Stats
 
 <div align="center">
 
@@ -103,20 +109,25 @@ From **game development** to **encryption systems**, I approach every project wi
 </div>
 
 ---
-## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/AbdulRehmann30?theme=dark&font=Nunito&ext=contest)
 
----
-## 🤝 Let's Connect & Collaborate
+## LeetCode Stats
 
 <div align="center">
 
-| Platform | Link | Purpose |
-|----------|------|---------|
-| 💼 LinkedIn | [abdulrehman~](https://linkedin.com/in/abdulrehman~) | Connect Professionally |
-| 📧 Email | [ch.abdulrehmann30@gmail.com](mailto:ch.abdulrehmann30@gmail.com) | Work Inquiries |
-| 🧩 LeetCode | [AbdulRehmann30](https://leetcode.com/u/AbdulRehmann30/) | Problem Solving |
-| 🐙 GitHub | [Abdul3005](https://github.com/Abdul3005) | Explore My Work |
+![LeetCode Stats](https://leetcard.jacoblin.cool/AbdulRehmann30?theme=dark&font=Nunito&ext=contest)
+
+</div>
+
+---
+
+## Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrehman~)
+[![Email](https://img.shields.io/badge/Email-Work_Inquiries-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ch.abdulrehmann30@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AbdulRehmann30/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul3005)
 
 </div>
 
@@ -124,6 +135,6 @@ From **game development** to **encryption systems**, I approach every project wi
 
 <div align="center">
 
-⭐ *Star what helps you. Fork what inspires you.*
+*Star what helps you. Fork what inspires you.*
 
 </div>
