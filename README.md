@@ -8,7 +8,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+C%2B%2B+Developer;Game+Developer+%7C+DSA+Enthusiast;Building+Solutions+That+Last;Open+to+Opportunities)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+C%2B%2B+Developer;Game+Developer+%7C+DSA+Enthusiast;Full-Stack+%7C+AI+Explorer;Open+to+Opportunities)
 
 <br/>
 
@@ -27,26 +27,26 @@
 
 ## About Me
 
-I am a **Software Engineer** specializing in **C++ development**, system-level programming, and the design of high-performance applications. My work focuses on writing clean, efficient, and maintainable code that solves real-world problems.
+I am a **Software Engineering undergraduate at FAST NUCES**, specializing in full-stack development, system-level programming, and AI-integrated applications. From building OS-level projects in C to deploying ML-powered career platforms with React and FastAPI — I engineer solutions that are clean, scalable, and built for the real world.
 
-From **game development** to **AI-powered tools**, I approach every project with precision and a commitment to engineering excellence — building software that is reliable, scalable, and production-ready.
+Recipient of two national scholarships — **STFS** and **Honahar** — and selected among **800+ global participants** for the **Dev Weekends Fellowship 2025**.
 
-> *"The best code is not the one that works — it's the one that lasts."*
+> *"Every great system was once just an idea someone refused to leave unbuilt."*
 
 ---
 
 ## Core Focus
+Full-Stack Web Development — React.js · Node.js · FastAPI
+
 C++ Systems & Application Development
 
-Game Design & Simulation
+AI & Machine Learning Integration
 
 Data Structures & Algorithms
 
+Database Design & Management
+
 Object-Oriented Software Architecture
-
-AI & Intelligent Application Development
-
-High-Performance & Low-Level Programming
 
 ---
 
@@ -56,21 +56,28 @@ High-Performance & Low-Level Programming
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,java" />
+
+<br/>
+
+### Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind" />
 
 <br/>
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postgres" />
 
 <br/>
 
 ![DSA](https://img.shields.io/badge/Data_Structures-Algorithms-2E86C1?style=flat-square)
 ![OOP](https://img.shields.io/badge/Object_Oriented-Programming-1A5276?style=flat-square)
-![Game Dev](https://img.shields.io/badge/Game-Development-154360?style=flat-square)
-![Encryption](https://img.shields.io/badge/Encryption-Security-1B2631?style=flat-square)
-![AI Tools](https://img.shields.io/badge/AI-Tools-21618C?style=flat-square)
+![SDLC](https://img.shields.io/badge/Software-SDLC-154360?style=flat-square)
+![REST API](https://img.shields.io/badge/REST-APIs-1B2631?style=flat-square)
+![ML](https://img.shields.io/badge/Machine-Learning-21618C?style=flat-square)
+![DB](https://img.shields.io/badge/Database-Design-0D3349?style=flat-square)
 
 </div>
 
