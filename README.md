@@ -107,4 +107,55 @@ Object-Oriented Software Architecture
 </div>
 
 ---
+---
 
+<div align="center">
+
+> ### *"Every great system was once just an idea someone refused to leave unbuilt."*
+
+</div>
+
+---
+
+## Let's Connect & Collaborate
+
+<div align="center">
+
+<table border="0" cellspacing="20" cellpadding="20" style="border:none">
+  <tr>
+    <td align="center" style="border:none">
+      <a href="https://linkedin.com/in/abdulrehman~">
+        <img src="https://img.icons8.com/fluency/80/linkedin.png" width="60px"/>
+        <br/><strong>LinkedIn</strong>
+        <br/><sub>Connect</sub>
+      </a>
+    </td>
+    <td align="center" style="border:none">
+      <a href="mailto:ch.abdulrehmann30@gmail.com">
+        <img src="https://img.icons8.com/fluency/80/gmail-new.png" width="60px"/>
+        <br/><strong>Email</strong>
+        <br/><sub>ch.abdulrehmann30@gmail.com</sub>
+      </a>
+    </td>
+    <td align="center" style="border:none">
+      <a href="https://leetcode.com/u/AbdulRehmann30/">
+        <img src="https://img.icons8.com/fluency/80/code.png" width="60px"/>
+        <br/><strong>LeetCode</strong>
+        <br/><sub>Problem Solving</sub>
+      </a>
+    </td>
+    <td align="center" style="border:none">
+      <a href="https://github.com/Abdul3005">
+        <img src="https://img.icons8.com/fluency/80/github.png" width="60px"/>
+        <br/><strong>GitHub</strong>
+        <br/><sub>Explore My Work</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,50:1B4F72,100:0D1B2A&height=100&section=footer" width="100%"/>
