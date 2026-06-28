@@ -85,7 +85,11 @@ From **game development** to **encryption systems**, I approach every project wi
 | [🏰 StrongHold](https://github.com/Abdul3005/-StrongHold_Game_C-Project) | Strategy-style stronghold defense game | C++ |
 
 ---
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,7 +103,10 @@ From **game development** to **encryption systems**, I approach every project wi
 </div>
 
 ---
+## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=AbdulRehmann30&theme=dark)
 
+---
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
