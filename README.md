@@ -104,7 +104,7 @@ From **game development** to **encryption systems**, I approach every project wi
 
 ---
 ## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=AbdulRehmann30&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AbdulRehmann30?theme=dark&font=Nunito&ext=contest)
 
 ---
 ## 🤝 Let's Connect & Collaborate
