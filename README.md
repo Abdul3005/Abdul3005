@@ -58,11 +58,13 @@ High-Performance & Low-Level Programming
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css" />
 
+<br/>
+
 ### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react,nextjs" />
 
-### Other Skills
+<br/>
 
 ![DSA](https://img.shields.io/badge/Data_Structures-Algorithms-2E86C1?style=flat-square)
 ![OOP](https://img.shields.io/badge/Object_Oriented-Programming-1A5276?style=flat-square)
@@ -71,34 +73,6 @@ High-Performance & Low-Level Programming
 ![AI Tools](https://img.shields.io/badge/AI-Tools-21618C?style=flat-square)
 
 </div>
-
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-|:--------|:------------|:----:|
-| [Velox-OS](https://github.com/Abdul3005/Velox-OS) | Custom OS-level project built in C | `C` |
-| [Noor Collection Website](https://github.com/Abdul3005/Noor-Collection-Website) | E-commerce website for clothing collection | `HTML` |
-| [Career-Lens](https://github.com/Abdul3005/Career-Lens) | Career guidance and job search platform | `JavaScript` |
-| [Skill-Swap](https://github.com/Abdul3005/Skill-Swap) | Platform for exchanging skills between users | `JavaScript` |
-| [Taza-Mandi-DB-Project](https://github.com/Abdul3005/Taza-Mandi-DB-Project) | Fresh produce marketplace database project | `JavaScript` |
-| [Neuro](https://github.com/Abdul3005/Neuro) | AI/ML exploration project | `Python` |
-| [CodeFix-AI](https://github.com/Abdul3005/CodeFix-AI) | AI-powered code fixing and debugging tool | `Python` |
-| [SkyNet ATC Simulator](https://github.com/Abdul3005/SkyNet-ATC-Simulator-C-Data-Structures) | Air traffic control simulator using data structures | `C++` |
-| [Skill-Swap Platform](https://github.com/Abdul3005/Skill-Swap-Platform) | Full platform for skill exchange and collaboration | `JavaScript` |
-| [Trippy Travel Website](https://github.com/Abdul3005/Trippy-Travel-Website) | Travel booking and exploration website | `JavaScript` |
-| [My Next App](https://github.com/Abdul3005/my-next-app) | Next.js web application project | `TypeScript` |
-| [C-Snake Game](https://github.com/Abdul3005/C-Snake_Game_Project) | Classic snake game with smooth mechanics | `C++` |
-| [Fantasy Arena](https://github.com/Abdul3005/Fantasy-Arena-A-Modular-Battle-Game-C-) | Modular battle game with extensible character system | `C++` |
-| [Adventure Quest](https://github.com/Abdul3005/Adventure_Quest_Multi-Player_Game-C-) | Multi-player adventure quest game | `C++` |
-| [StrongHold](https://github.com/Abdul3005/-StrongHold_Game_C-Project) | Strategy-style stronghold defense game | `C++` |
-
----
-
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -131,30 +105,30 @@ High-Performance & Low-Level Programming
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td align="center" width="150">
+    <td align="center">
       <a href="https://linkedin.com/in/abdulrehman~">
         <img src="https://img.icons8.com/fluency/80/linkedin.png" width="60px"/>
         <br/><strong>LinkedIn</strong>
         <br/><sub>Connect</sub>
       </a>
     </td>
-    <td align="center" width="150">
+    <td align="center">
       <a href="mailto:ch.abdulrehmann30@gmail.com">
         <img src="https://img.icons8.com/fluency/80/gmail-new.png" width="60px"/>
         <br/><strong>Email</strong>
         <br/><sub>ch.abdulrehmann30@gmail.com</sub>
       </a>
     </td>
-    <td align="center" width="150">
+    <td align="center">
       <a href="https://leetcode.com/u/AbdulRehmann30/">
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/80/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="60px"/>
+        <img src="https://img.icons8.com/fluency/80/code.png" width="60px"/>
         <br/><strong>LeetCode</strong>
         <br/><sub>Problem Solving</sub>
       </a>
     </td>
-    <td align="center" width="150">
+    <td align="center">
       <a href="https://github.com/Abdul3005">
         <img src="https://img.icons8.com/fluency/80/github.png" width="60px"/>
         <br/><strong>GitHub</strong>
