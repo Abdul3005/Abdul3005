@@ -68,12 +68,21 @@ From **game development** to **encryption systems**, I approach every project wi
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [🐍 C-Snake Game](https://github.com/Abdul3005/C-Snake_Game_Project) | Classic snake game built in C++ with smooth mechanics | C++ |
+| [🌐 Velox-OS](https://github.com/Abdul3005/Velox-OS) | Custom OS-level project built in C | C |
+| [🛍️ Noor Collection Website](https://github.com/Abdul3005/Noor-Collection-Website) | E-commerce website for clothing collection | HTML |
+| [🔍 Career-Lens](https://github.com/Abdul3005/Career-Lens) | Career guidance and job search platform | JavaScript |
+| [🔄 Skill-Swap](https://github.com/Abdul3005/Skill-Swap) | Platform for exchanging skills between users | JavaScript |
+| [🥦 Taza-Mandi-DB-Project](https://github.com/Abdul3005/Taza-Mandi-DB-Project) | Fresh produce marketplace database project | JavaScript |
+| [🧠 Neuro](https://github.com/Abdul3005/Neuro) | AI/ML exploration project | — |
+| [🤖 CodeFix-AI](https://github.com/Abdul3005/CodeFix-AI) | AI-powered code fixing and debugging tool | — |
+| [✈️ SkyNet ATC Simulator](https://github.com/Abdul3005/SkyNet-ATC-Simulator-C-Data-Structures) | Air traffic control simulator using data structures | C++ |
+| [🔁 Skill-Swap Platform](https://github.com/Abdul3005/Skill-Swap-Platform) | Full platform for skill exchange and collaboration | JavaScript |
+| [✈️ Trippy Travel Website](https://github.com/Abdul3005/Trippy-Travel-Website) | Travel booking and exploration website | JavaScript |
+| [⚡ My Next App](https://github.com/Abdul3005/my-next-app) | Next.js web application project | TypeScript |
+| [🐍 C-Snake Game](https://github.com/Abdul3005/C-Snake_Game_Project) | Classic snake game with smooth mechanics | C++ |
 | [⚔️ Fantasy Arena](https://github.com/Abdul3005/Fantasy-Arena-A-Modular-Battle-Game-C-) | Modular battle game with extensible character system | C++ |
 | [🗺️ Adventure Quest](https://github.com/Abdul3005/Adventure_Quest_Multi-Player_Game-C-) | Multi-player adventure quest game | C++ |
 | [🏰 StrongHold](https://github.com/Abdul3005/-StrongHold_Game_C-Project) | Strategy-style stronghold defense game | C++ |
-| [🔐 Encrytix Task 1](https://github.com/Abdul3005/Encrytix_Task_1) | Encryption application — Task 1 | C++ |
-| [🔐 Encrytix Task 2](https://github.com/Abdul3005/Encryptix_Task_2) | Encryption application — Task 2 | C++ |
 
 ---
 
