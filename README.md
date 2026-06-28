@@ -31,8 +31,6 @@ I am a **Software Engineering undergraduate at FAST NUCES**, specializing in ful
 
 Recipient of two national scholarships — **STFS** and **Honahar** — and selected among **800+ global participants** for the **Dev Weekends Fellowship 2025**.
 
-> *"Every great system was once just an idea someone refused to leave unbuilt."*
-
 ---
 
 ## Core Focus
@@ -107,52 +105,34 @@ Object-Oriented Software Architecture
 </div>
 
 ---
----
-
-<div align="center">
-
-> ### *"Every great system was once just an idea someone refused to leave unbuilt."*
-
-</div>
-
----
 
 ## Let's Connect & Collaborate
 
 <div align="center">
 
-<table border="0" cellspacing="20" cellpadding="20" style="border:none">
-  <tr>
-    <td align="center" style="border:none">
-      <a href="https://linkedin.com/in/abdulrehman~">
-        <img src="https://img.icons8.com/fluency/80/linkedin.png" width="60px"/>
-        <br/><strong>LinkedIn</strong>
-        <br/><sub>Connect</sub>
-      </a>
-    </td>
-    <td align="center" style="border:none">
-      <a href="mailto:ch.abdulrehmann30@gmail.com">
-        <img src="https://img.icons8.com/fluency/80/gmail-new.png" width="60px"/>
-        <br/><strong>Email</strong>
-        <br/><sub>ch.abdulrehmann30@gmail.com</sub>
-      </a>
-    </td>
-    <td align="center" style="border:none">
-      <a href="https://leetcode.com/u/AbdulRehmann30/">
-        <img src="https://img.icons8.com/fluency/80/code.png" width="60px"/>
-        <br/><strong>LeetCode</strong>
-        <br/><sub>Problem Solving</sub>
-      </a>
-    </td>
-    <td align="center" style="border:none">
-      <a href="https://github.com/Abdul3005">
-        <img src="https://img.icons8.com/fluency/80/github.png" width="60px"/>
-        <br/><strong>GitHub</strong>
-        <br/><sub>Explore My Work</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<br/>
+
+[![LinkedIn](https://img.icons8.com/fluency/96/linkedin.png)](https://linkedin.com/in/abdulrehman~)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.icons8.com/fluency/96/gmail-new.png)](mailto:ch.abdulrehmann30@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LeetCode](https://img.icons8.com/fluency/96/code.png)](https://leetcode.com/u/AbdulRehmann30/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.icons8.com/fluency/96/github.png)](https://github.com/Abdul3005)
+
+<br/>
+
+**[LinkedIn](https://linkedin.com/in/abdulrehman~)** &nbsp;·&nbsp;
+**[Email](mailto:ch.abdulrehmann30@gmail.com)** &nbsp;·&nbsp;
+**[LeetCode](https://leetcode.com/u/AbdulRehmann30/)** &nbsp;·&nbsp;
+**[GitHub](https://github.com/Abdul3005)**
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is not just instructions for machines — it is the architecture of ideas made real."*
 
 </div>
 
